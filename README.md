@@ -74,6 +74,11 @@ Passionate about building AI-powered solutions, analyzing data to drive informed
 * Optimized models for embedded AI deployment
 * Implemented computer vision techniques for edge devices
 
+### Heart Stroke Prediction Model | Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+* Developed a machine learning model to predict the likelihood of heart stroke using healthcare datasets and predictive analytics techniques.
+* Performed data preprocessing, feature engineering, and model evaluation.
+* Improved prediction accuracy using classification algorithms and performance metrics.**
 ---
 
 ## Certifications
