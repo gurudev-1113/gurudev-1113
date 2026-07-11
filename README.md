@@ -23,7 +23,8 @@ Passionate about building AI-powered solutions, analyzing data to drive informed
 
 * Python
 * SQL
-* JavaScript
+* C
+* React
 
 ### Data Analytics
 
